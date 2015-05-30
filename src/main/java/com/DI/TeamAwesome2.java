@@ -37,11 +37,11 @@ public class TeamAwesome2 {
      * 
      * 
      * @Service
-public class TeamAwesome {
+public class TeamAwesome2 {
     private DonkeyHulk2 donkeyHulk;
  
     @Autowired
-    public TeamAwesome(DonkeyHulk2 donkeyHulk) {
+    public TeamAwesome2(DonkeyHulk2 donkeyHulk) {
         this.donkeyHulk = donkeyHulk;
     }
  
